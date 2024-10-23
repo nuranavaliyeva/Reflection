@@ -1,0 +1,14 @@
+C:\Users\Nuran\source\repos\Upcasting\Upcasting\bin\Debug\net6.0\Upcasting.exe
+C:\Users\Nuran\source\repos\Upcasting\Upcasting\bin\Debug\net6.0\Upcasting.deps.json
+C:\Users\Nuran\source\repos\Upcasting\Upcasting\bin\Debug\net6.0\Upcasting.runtimeconfig.json
+C:\Users\Nuran\source\repos\Upcasting\Upcasting\bin\Debug\net6.0\Upcasting.dll
+C:\Users\Nuran\source\repos\Upcasting\Upcasting\bin\Debug\net6.0\Upcasting.pdb
+C:\Users\Nuran\source\repos\Upcasting\Upcasting\obj\Debug\net6.0\Upcasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuran\source\repos\Upcasting\Upcasting\obj\Debug\net6.0\Upcasting.AssemblyInfoInputs.cache
+C:\Users\Nuran\source\repos\Upcasting\Upcasting\obj\Debug\net6.0\Upcasting.AssemblyInfo.cs
+C:\Users\Nuran\source\repos\Upcasting\Upcasting\obj\Debug\net6.0\Upcasting.csproj.CoreCompileInputs.cache
+C:\Users\Nuran\source\repos\Upcasting\Upcasting\obj\Debug\net6.0\Upcasting.dll
+C:\Users\Nuran\source\repos\Upcasting\Upcasting\obj\Debug\net6.0\refint\Upcasting.dll
+C:\Users\Nuran\source\repos\Upcasting\Upcasting\obj\Debug\net6.0\Upcasting.pdb
+C:\Users\Nuran\source\repos\Upcasting\Upcasting\obj\Debug\net6.0\Upcasting.genruntimeconfig.cache
+C:\Users\Nuran\source\repos\Upcasting\Upcasting\obj\Debug\net6.0\ref\Upcasting.dll

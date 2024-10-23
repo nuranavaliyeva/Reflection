@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nuran\\source\\repos\\Upcasting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{770CF87A-1468-4A99-BBC1-1800C38E9922}|Upcasting\\Upcasting.csproj|c:\\users\\nuran\\source\\repos\\upcasting\\upcasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770CF87A-1468-4A99-BBC1-1800C38E9922}|Upcasting\\Upcasting.csproj|solutionrelative:upcasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770CF87A-1468-4A99-BBC1-1800C38E9922}|Upcasting\\Upcasting.csproj|c:\\users\\nuran\\source\\repos\\upcasting\\upcasting\\models\\orange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770CF87A-1468-4A99-BBC1-1800C38E9922}|Upcasting\\Upcasting.csproj|solutionrelative:upcasting\\models\\orange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770CF87A-1468-4A99-BBC1-1800C38E9922}|Upcasting\\Upcasting.csproj|c:\\users\\nuran\\source\\repos\\upcasting\\upcasting\\models\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770CF87A-1468-4A99-BBC1-1800C38E9922}|Upcasting\\Upcasting.csproj|solutionrelative:upcasting\\models\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770CF87A-1468-4A99-BBC1-1800C38E9922}|Upcasting\\Upcasting.csproj|c:\\users\\nuran\\source\\repos\\upcasting\\upcasting\\models\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770CF87A-1468-4A99-BBC1-1800C38E9922}|Upcasting\\Upcasting.csproj|solutionrelative:upcasting\\models\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770CF87A-1468-4A99-BBC1-1800C38E9922}|Upcasting\\Upcasting.csproj|c:\\users\\nuran\\source\\repos\\upcasting\\upcasting\\models\\pineapple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770CF87A-1468-4A99-BBC1-1800C38E9922}|Upcasting\\Upcasting.csproj|solutionrelative:upcasting\\models\\pineapple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Orange.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\Upcasting\\Upcasting\\Models\\Orange.cs",
+              "RelativeDocumentMoniker": "Upcasting\\Models\\Orange.cs",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\Upcasting\\Upcasting\\Models\\Orange.cs",
+              "RelativeToolTip": "Upcasting\\Models\\Orange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:15:46.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Apple.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\Upcasting\\Upcasting\\Models\\Apple.cs",
+              "RelativeDocumentMoniker": "Upcasting\\Models\\Apple.cs",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\Upcasting\\Upcasting\\Models\\Apple.cs",
+              "RelativeToolTip": "Upcasting\\Models\\Apple.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:15:28.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\Upcasting\\Upcasting\\Models\\Fruit.cs",
+              "RelativeDocumentMoniker": "Upcasting\\Models\\Fruit.cs",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\Upcasting\\Upcasting\\Models\\Fruit.cs",
+              "RelativeToolTip": "Upcasting\\Models\\Fruit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:15:19.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\Upcasting\\Upcasting\\Program.cs",
+              "RelativeDocumentMoniker": "Upcasting\\Program.cs",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\Upcasting\\Upcasting\\Program.cs",
+              "RelativeToolTip": "Upcasting\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:14:47.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pineapple.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\Upcasting\\Upcasting\\Models\\Pineapple.cs",
+              "RelativeDocumentMoniker": "Upcasting\\Models\\Pineapple.cs",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\Upcasting\\Upcasting\\Models\\Pineapple.cs",
+              "RelativeToolTip": "Upcasting\\Models\\Pineapple.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:15:37.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
